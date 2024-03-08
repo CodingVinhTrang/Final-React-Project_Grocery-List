@@ -1,0 +1,9 @@
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit:scale-down;
+}
+
+.border-dashed {
+    border-bottom-style: dashed;
+}
